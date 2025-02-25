@@ -1,6 +1,8 @@
 # Supernote Nomad
 As it turns out the Supernote Nomad fights a common kneboard perfectly.  The writing on an eInk display is far and away superior to an ipad or other tablet.  You get the free form writing and tactile feel of paper note taking with the digital preservation and saving of a tablet.
 
+![Nomad on kneeboard example](./Supernote_Nomad_example.jpg)
+
 ## Cessna U206F Checklist
 The Cessna U206F Supernote Nomad Checklists are based on the 1975 Cessna U206F "Owner's Manual" and the 1975 Floatplane owner's manual supplement.
 
