@@ -1,3 +1,12 @@
+# Supernote Nomad
+As it turns out the Supernote Nomad fights a common kneboard perfectly.  The writing on an eInk display is far and away superior to an ipad or other tablet.  You get the free form writing and tactile feel of paper note taking with the digital preservation and saving of a tablet.
+
+## Cessna U206F Checklist
+The Cessna U206F Supernote Nomad Checklists are based on the 1975 Cessna U206F "Owner's Manual" and the 1975 Floatplane owner's manual supplement.
+
+# Flip-Tab Checklist
+In the old days mechanical checklists used to exist for a pilot to flip through them and run their hand along to know the checklist was complete.  There is very little evidence that these used to exist, or I don't know the right name for them.  [Someone did a DIY of it some years back](https://www.youtube.com/watch?v=JcCw5mA0tO4), and we will do another one here, but make the files to recreate it freely available.
+
 # Kneeboard
 A collection of aircraft checklists, templates, and documents -- used before, during, and after flight.
 
