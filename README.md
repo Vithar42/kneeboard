@@ -11,7 +11,7 @@ In the old days mechanical checklists used to exist for a pilot to flip through 
 
 Making some slow progress on this.  Added some 3d printable files for the design as it currently is.  Probably 80% finished, still have to source aluminum etched plates.  Template for the checklist is roughed in as well.
 
-![Work in Progress screen shot](./FlipTabs/Screenshot 2025-04-02 172844.png)
+![Work in Progress screen shot](./FlipTabs/Screenshot_2025-04-02_172844.png)
 
 # Kneeboard
 A collection of aircraft checklists, templates, and documents -- used before, during, and after flight.
