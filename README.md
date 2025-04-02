@@ -9,6 +9,10 @@ The Cessna U206F Supernote Nomad Checklists are based on the 1975 Cessna U206F "
 # Flip-Tab Checklist
 In the old days mechanical checklists used to exist for a pilot to flip through them and run their hand along to know the checklist was complete.  There is very little evidence that these used to exist, or I don't know the right name for them.  [Someone did a DIY of it some years back](https://www.youtube.com/watch?v=JcCw5mA0tO4), and we will do another one here, but make the files to recreate it freely available.
 
+Making some slow progress on this.  Added some 3d printable files for the design as it currently is.  Probably 80% finished, still have to source aluminum etched plates.  Template for the checklist is roughed in as well.
+
+![Work in Progress screen shot](./FlipTabs/Screenshot 2025-04-02 172844.png)
+
 # Kneeboard
 A collection of aircraft checklists, templates, and documents -- used before, during, and after flight.
 
