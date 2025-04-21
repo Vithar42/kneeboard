@@ -11,6 +11,8 @@ In the old days mechanical checklists used to exist for a pilot to flip through 
 
 Making some slow progress on this.  Added some 3d printable files for the design as it currently is.  Probably 80% finished, still have to source aluminum etched plates.  Template for the checklist is roughed in as well.
 
+Considering using something [like these clips](https://www.amazon.com/dp/B07Q579VJ3) to mount to the panels glareshield.
+
 ![Work in Progress screen shot](./FlipTabs/Screenshot_2025-04-02_172844.png)
 
 # Kneeboard

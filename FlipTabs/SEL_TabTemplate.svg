@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 745.5 13.78">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: LucidaSans-Typewriter, 'Lucida Sans Typewriter';
+        font-size: 10px;
+        font-style: italic;
+      }
+
+      .cls-3 {
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(56.42 9.12)"><tspan x="0" y="0">BEFORE START</tspan></text>
+  <text class="cls-2" transform="translate(155.64 9.11)"><tspan x="0" y="0">STARTUP</tspan></text>
+  <text class="cls-2" transform="translate(232.02 9.11)"><tspan x="0" y="0">START ENG</tspan></text>
+  <line class="cls-1" y1="13.53" x2="745.5" y2="13.53"/>
+  <text class="cls-2" transform="translate(318.19 9.12)"><tspan x="0" y="0">CONTROLS</tspan></text>
+  <text class="cls-3" transform="translate(410.89 9.12)"><tspan x="0" y="0">RUNUP</tspan></text>
+  <text class="cls-2" transform="translate(474.22 9.12)"><tspan x="0" y="0">BEFORE T.O.</tspan></text>
+  <text class="cls-2" transform="translate(570.18 9.12)"><tspan x="0" y="0">TAKEOFF</tspan></text>
+  <text class="cls-2" transform="translate(656.35 9.12)"><tspan x="0" y="0">CRUISE</tspan></text>
+</svg>
